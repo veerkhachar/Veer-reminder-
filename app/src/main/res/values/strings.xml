@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">UntilDone</string>
+    <string name="accessibility_description">UntilDone accountability service. Intercepts and blocks selected social and gaming apps (like Instagram, TikTok, YouTube) when you have critical tasks active to keep you focused on your goals.</string>
+</resources>
